@@ -12,3 +12,6 @@
 *.out
 # VSCode workspace settings
 *.code-workspace
+.vscode/settings.json
+.DS_Store
+metadata.json
