@@ -1,3 +1,3 @@
 # exercism.io
 
-Go learning exercises
+Programming fun exercises
